@@ -264,3 +264,7 @@ opacity: .5;
             transform: translateY(800px)
   }
 }
+
+a {
+  text-decoration:none;
+}

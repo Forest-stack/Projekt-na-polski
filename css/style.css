@@ -2,12 +2,6 @@
 
 /** Styles for the 403 Page **/
 
-body {
-
-overflow-y: hidden;
-
-}
-
 .particle-error,
 .permission_denied,
 #particles-js {
